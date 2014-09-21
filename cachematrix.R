@@ -2,11 +2,11 @@
 ## functions do
 
 ## Write a short comment describing this function
-## R-programming Assingment 2 
+## R-Programming Assingment 2 
 
 makeCacheMatrix <- function(x = matrix()) {
 
-  ## Initialize the Inverse Property
+  ## Inverse property
           i <- NULL
   
           ## Method to set the matrix
@@ -16,7 +16,7 @@ makeCacheMatrix <- function(x = matrix()) {
  
           }
 
-  ## Method the get the matrix
+  ## Method to get the matrix
           get <- function() {
   
           ## Return the matrix
